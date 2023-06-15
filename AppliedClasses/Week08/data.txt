@@ -1,0 +1,72 @@
+{
+	"data": [{
+		"id": 15246,
+		"title": "Book data",
+		"description": "Contains infromation about the book's data"
+	}],
+	"data_0": [{
+			"id": "bk101",
+			"author": "Gambardella, Matthew",
+			"title": "XML Developer's Guide",
+			"genre": "Computer",
+			"price": "44.95",
+			"publish_date": "2000-10-01",
+			"description": "An in-depth look at creating applications with XML."
+		},
+		{
+			"id": "bk102",
+			"author": "Ralls, Kim",
+			"title": "Midnight Rain",
+			"genre": "Fantasy",
+			"price": "5.95",
+			"publish_date": "2000-12-16",
+			"description": "A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world."
+		},
+		{
+			"id": "bk103",
+			"author": "Corets, Eva",
+			"title": "Maeve Ascendant",
+			"genre": "Fantasy",
+			"price": "5.95",
+			"publish_date": "2000-11-17",
+			"description": "After the collapse of a nanotechnology society in England, the young survivors lay the foundation for a new society."
+		},
+		{
+			"id": "bk104",
+			"author": "Corets, Eva",
+			"title": "Oberon's Legacy",
+			"genre": "Fantasy",
+			"price": "5.95",
+			"publish_date": "2001-03-10",
+			"description": "In post-apocalypse England, the mysterious agent known only as Oberon helps to create a new life for the inhabitants of London. Sequel to Maeve Ascendant."
+		}
+	],
+	"data_1": [{
+			"id": "bk201",
+			"author": "Jaku, Eddie",
+			"title": "The Happiest Man On Earth",
+			"genre": "Non-Fiction",
+			"price": "26.95",
+			"publish_date": "2020-07-28",
+			"description": " This is a powerful, heartbreaking and ultimately hopeful memoir of how happiness can be found even in the darkest of times."
+		},
+		{
+			"id": "bk202",
+			"author": "Kishimi, Ichiro and Koga, Fumitake",
+			"title": "Courage to be Disliked",
+			"genre": "Non-Fiction",
+			"price": "19.99",
+			"publish_date": "2013-12-12",
+			"description": "The Japanese phenomenon that teaches us the simple yet profound lessons required to liberate our real selves and find lasting happiness."
+		},
+		{
+			"id": "bk203",
+			"author": "Jordan, Robert",
+			"title": "The Eye of the World",
+			"genre": "Fantasy",
+			"price": "59.99",
+			"publish_date": "1990-01-15",
+			"description": "The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow."
+		}
+	]
+}
